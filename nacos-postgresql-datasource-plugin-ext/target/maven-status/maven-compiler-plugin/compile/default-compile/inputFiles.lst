@@ -1,0 +1,11 @@
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\dialect\PostgresqlDatabaseDialect.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\enums\TrustedPostgresFunctionEnum.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoAggrMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoBetaMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoTagMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigTagsRelationMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\GroupCapacityMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\HistoryConfigInfoMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\TenantCapacityMapperByPostgresql.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-postgresql-datasource-plugin-ext\src\main\java\com\alibaba\nacos\plugin\datasource\impl\postgresql\TenantInfoMapperByPostgresql.java

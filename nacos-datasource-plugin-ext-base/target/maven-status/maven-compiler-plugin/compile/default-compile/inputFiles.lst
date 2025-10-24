@@ -1,0 +1,15 @@
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\constants\DatabaseTypeConstant.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\constants\PrimaryKeyConstant.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\dialect\AbstractDatabaseDialect.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\dialect\DatabaseDialect.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\dialect\DefaultDatabaseDialect.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoAggrMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoBetaMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoTagMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigTagsRelationMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseGroupCapacityMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseHistoryConfigInfoMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseTenantCapacityMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\impl\base\BaseTenantInfoMapper.java
+D:\dev\code\nacos-plugin-feature-nacos-2.4.2\nacos-datasource-plugin-ext\nacos-datasource-plugin-ext-base\src\main\java\com\alibaba\nacos\plugin\datasource\manager\DatabaseDialectManager.java

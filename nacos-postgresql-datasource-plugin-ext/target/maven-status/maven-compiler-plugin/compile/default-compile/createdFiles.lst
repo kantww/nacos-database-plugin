@@ -1,0 +1,11 @@
+com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoTagMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\enums\TrustedPostgresFunctionEnum.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoAggrMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoBetaMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\HistoryConfigInfoMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigTagsRelationMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\TenantCapacityMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\TenantInfoMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\ConfigInfoMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\impl\postgresql\GroupCapacityMapperByPostgresql.class
+com\alibaba\nacos\plugin\datasource\dialect\PostgresqlDatabaseDialect.class

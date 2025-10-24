@@ -1,0 +1,15 @@
+com\alibaba\nacos\plugin\datasource\dialect\DatabaseDialect.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoMapper.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoBetaMapper.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoTagMapper.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseTenantInfoMapper.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseTenantCapacityMapper.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseGroupCapacityMapper.class
+com\alibaba\nacos\plugin\datasource\constants\DatabaseTypeConstant.class
+com\alibaba\nacos\plugin\datasource\constants\PrimaryKeyConstant.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigInfoAggrMapper.class
+com\alibaba\nacos\plugin\datasource\manager\DatabaseDialectManager.class
+com\alibaba\nacos\plugin\datasource\dialect\DefaultDatabaseDialect.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseConfigTagsRelationMapper.class
+com\alibaba\nacos\plugin\datasource\dialect\AbstractDatabaseDialect.class
+com\alibaba\nacos\plugin\datasource\impl\base\BaseHistoryConfigInfoMapper.class
